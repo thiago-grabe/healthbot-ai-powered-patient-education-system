@@ -1,0 +1,10 @@
+langchain==0.3.25
+langchain-openai==0.3.33
+langgraph==0.2.50
+langchainhub==0.1.21
+tavily-python==0.5.0
+langchain-community==0.3.25
+python-dotenv==1.1.0
+httpx==0.28.1
+ipykernel==6.29.5
+ipython==8.30.0
